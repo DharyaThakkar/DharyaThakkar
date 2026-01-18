@@ -16,6 +16,14 @@
   <a href="mailto:dharyathakkar71@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME/">
+    <img src="https://img.shields.io/badge/CodeChef-FB9A00?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
 </p>
 
 <br>
@@ -34,8 +42,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,git,tailwind,java&perline=8" />
   </a>
 </p>
-
-<!-- Mapping: HTML5 → html, CSS → css, JavaScript → js, Node.js → nodejs, Express.js → express, MongoDB → mongodb, Git → git, Tailwind CSS → tailwind, Java (for Servlet/JSP/Hibernate) → java -->
 
 <br>
 
