@@ -17,11 +17,11 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+  <a href="https://leetcode.com/DharyaThakkar/">
     <img src="https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME/">
+  <a href="https://www.codechef.com/users/dharyathakkar/">
     <img src="https://img.shields.io/badge/CodeChef-FB9A00?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
 </p>
